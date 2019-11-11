@@ -1,0 +1,10 @@
+C:\Users\2binfo\Documents\Gabriel Ap\Projeto_20190918\AppBanco\ConsoleBanco01\bin\Release\ConsoleBanco01.exe.config
+C:\Users\2binfo\Documents\Gabriel Ap\Projeto_20190918\AppBanco\ConsoleBanco01\bin\Release\ConsoleBanco01.exe.manifest
+C:\Users\2binfo\Documents\Gabriel Ap\Projeto_20190918\AppBanco\ConsoleBanco01\bin\Release\ConsoleBanco01.application
+C:\Users\2binfo\Documents\Gabriel Ap\Projeto_20190918\AppBanco\ConsoleBanco01\bin\Release\ConsoleBanco01.exe
+C:\Users\2binfo\Documents\Gabriel Ap\Projeto_20190918\AppBanco\ConsoleBanco01\bin\Release\ConsoleBanco01.pdb
+C:\Users\2binfo\Documents\Gabriel Ap\Projeto_20190918\AppBanco\ConsoleBanco01\obj\Release\ConsoleBanco01.csproj.CoreCompileInputs.cache
+C:\Users\2binfo\Documents\Gabriel Ap\Projeto_20190918\AppBanco\ConsoleBanco01\obj\Release\ConsoleBanco01.exe.manifest
+C:\Users\2binfo\Documents\Gabriel Ap\Projeto_20190918\AppBanco\ConsoleBanco01\obj\Release\ConsoleBanco01.application
+C:\Users\2binfo\Documents\Gabriel Ap\Projeto_20190918\AppBanco\ConsoleBanco01\obj\Release\ConsoleBanco01.exe
+C:\Users\2binfo\Documents\Gabriel Ap\Projeto_20190918\AppBanco\ConsoleBanco01\obj\Release\ConsoleBanco01.pdb

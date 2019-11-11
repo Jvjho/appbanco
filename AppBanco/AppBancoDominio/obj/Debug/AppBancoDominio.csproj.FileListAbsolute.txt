@@ -1,0 +1,12 @@
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco\AppBancoDominio\bin\Debug\AppBancoDominio.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco\AppBancoDominio\bin\Debug\AppBancoDominio.pdb
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco\AppBancoDominio\obj\Debug\AppBancoDominio.csprojAssemblyReference.cache
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco\AppBancoDominio\obj\Debug\AppBancoDominio.csproj.CoreCompileInputs.cache
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco\AppBancoDominio\obj\Debug\AppBancoDominio.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco\AppBancoDominio\obj\Debug\AppBancoDominio.pdb
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco_11_10\AppBanco\AppBancoDominio\bin\Debug\AppBancoDominio.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco_11_10\AppBanco\AppBancoDominio\bin\Debug\AppBancoDominio.pdb
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco_11_10\AppBanco\AppBancoDominio\obj\Debug\AppBancoDominio.csprojAssemblyReference.cache
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco_11_10\AppBanco\AppBancoDominio\obj\Debug\AppBancoDominio.csproj.CoreCompileInputs.cache
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco_11_10\AppBanco\AppBancoDominio\obj\Debug\AppBancoDominio.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco_11_10\AppBanco\AppBancoDominio\obj\Debug\AppBancoDominio.pdb

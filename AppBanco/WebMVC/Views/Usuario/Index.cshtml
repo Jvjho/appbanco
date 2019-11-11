@@ -1,0 +1,56 @@
+﻿@model IEnumerable<AppBancoDominio.Usuario>
+
+@{
+    ViewBag.Title = "Usuário";
+}
+
+<h2>USUÁRIO</h2>
+<p>@Html.ActionLink("Novo usuário", "Cadastrar")</p>
+<br/>
+
+<table class="table">
+    <tr>
+
+        <th class="text-center">
+            @Html.DisplayNameFor(model => model.IdUsu)
+        </th>
+        <th class="text-center">
+            @Html.DisplayNameFor(model => model.NomeUsu)
+        </th>
+        <th class="text-center">
+            @Html.DisplayNameFor(model => model.Cargo)
+        </th>
+        <th class="text-center">
+            @Html.DisplayNameFor(model => model.DataNasc)
+        </th>
+        <th>
+            @*<b>Ações</b>*@
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+
+        <td class="text-center">
+            @Html.DisplayFor(modelItem => item.IdUsu)
+        </td>
+        <td class="text-center">
+            @Html.DisplayFor(modelItem => item.NomeUsu)
+        </td>
+        <td class="text-center">
+            @Html.DisplayFor(modelItem => item.Cargo)
+        </td>
+        <td class="text-center">
+            @Html.DisplayFor(modelItem => item.DataNasc)
+        </td>
+        <td class="text-center">
+           
+            @Html.ActionLink("Alterar", "Editar", new {id = item.IdUsu }) |
+            @Html.ActionLink("Detalhes", "Detalhes", new { id = item.IdUsu }) |
+            @Html.ActionLink("Apagar", "Deletar", new { id = item.IdUsu })
+        </td>
+    </tr>
+}
+
+</table>
+

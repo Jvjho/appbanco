@@ -1,0 +1,12 @@
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco\AppBancoADO\bin\Debug\AppBancoADO.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco\AppBancoADO\bin\Debug\AppBancoADO.pdb
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco\AppBancoADO\obj\Debug\AppBancoADO.csprojAssemblyReference.cache
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco\AppBancoADO\obj\Debug\AppBancoADO.csproj.CoreCompileInputs.cache
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco\AppBancoADO\obj\Debug\AppBancoADO.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco\AppBancoADO\obj\Debug\AppBancoADO.pdb
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco_11_10\AppBanco\AppBancoADO\bin\Debug\AppBancoADO.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco_11_10\AppBanco\AppBancoADO\bin\Debug\AppBancoADO.pdb
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco_11_10\AppBanco\AppBancoADO\obj\Debug\AppBancoADO.csprojAssemblyReference.cache
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco_11_10\AppBanco\AppBancoADO\obj\Debug\AppBancoADO.csproj.CoreCompileInputs.cache
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco_11_10\AppBanco\AppBancoADO\obj\Debug\AppBancoADO.dll
+C:\Users\2binfo\Documents\Gabriel Ap\ASP.NET\AppBanco_11_10\AppBanco\AppBancoADO\obj\Debug\AppBancoADO.pdb
